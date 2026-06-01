@@ -1,0 +1,37 @@
+name: consciousness_sim
+description: >
+  An advanced Dart library simulating machine consciousness based on
+  Global Workspace Theory. Provides a sophisticated information-processing
+  model that mimics attention mechanisms, memory systems, conceptual binding,
+  and multi-layered inference — moving beyond simple AI recall toward genuine
+  dynamic awareness.
+  
+version: 1.0.1
+homepage: https://github.com/Brah-Timo/consciousness_sim
+repository: https://github.com/Brah-Timo/consciousness_sim
+issue_tracker: https://github.com/Brah-Timo/consciousness_sim/issues
+documentation: https://pub.dev/documentation/consciousness_sim/latest/
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  collection: ^1.17.0
+  equatable: ^2.0.5
+  http: ^1.2.1
+  logging: ^1.2.0
+  meta: ^1.9.0
+  uuid: ^4.0.0
+
+dev_dependencies:
+  build_runner: ^2.4.0
+  lints: ^3.0.0
+  mockito: ^5.4.0
+  test: ^1.24.0
+
+topics:
+  - artificial-intelligence
+  - consciousness
+  - cognitive-science
+  - machine-learning
+  - ai
